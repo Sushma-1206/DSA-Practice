@@ -24,19 +24,6 @@ Arrays/
 Hashing/
 SlidingWindow/
 
----
-
-## ✅ Problems Solved
-
-### Arrays
-- Two Sum  
-  - Brute Force – O(n²)
-  - Hash Map – O(n)
-
-(More coming soon...)
-
----
-
 ## 📈 Learning Approach
 
 For every problem:
