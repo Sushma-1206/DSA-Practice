@@ -28,10 +28,9 @@ SlidingWindow/
 
 For every problem:
 1. Understand the problem
-2. Write brute force solution
-3. Optimize the solution
-4. Analyze time & space complexity
-5. Commit to GitHub
+2. Optimize the solution
+3. Analyze time & space complexity
+4. Commit to GitHub
 
 ---
 
